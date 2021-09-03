@@ -1,2 +1,3 @@
 #contain config Datasource, DB: mySQL, Postgre,.... config hibernate
-test.name=huy
+test:
+  name: huy1
